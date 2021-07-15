@@ -1,0 +1,10 @@
+.profileImg{
+    border-radius: 50%;
+}
+.pix{
+    max-width: 540px;
+}
+#mainProfile{
+    display: grid;
+    place-content: center;
+}
